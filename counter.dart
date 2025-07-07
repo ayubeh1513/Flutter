@@ -73,7 +73,7 @@ class _CounterScreenState extends State<CounterScreen> {
 
   void _incrementCounter() {
     setState(() {
-      _counter++; // Increase counter by 1
+      _counter++;
     });
   }
 
